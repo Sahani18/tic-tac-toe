@@ -3,12 +3,12 @@ body {
 }
 
 table {
-  margin: 20px auto;
+  margin: 22px auto;
 }
 
 table.board {
   border-collapse: collapse;
-  font-size: 50px;
+  font-size: 55px;
 }
 
 .board td {
